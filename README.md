@@ -55,20 +55,6 @@ This project focuses on:
 
 ---
 
-# Project Structure
-
-```
-smart-helmet/
-│
-├── index.html
-├── css/
-├── js/
-├── images/
-├── assets/
-└── README.md
-```
-
----
 
 # Deployment Workflow
 
